@@ -725,4 +725,9 @@ h2{
     position: absolute;
     border: none;
 }
+
+.gallery-black {
+    background-color: #414141;
+    width: 420px;
+}
 }
